@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-03-26T07:08:26.552Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-03-26T07:33:28.096Z",
     "templateType": "fullpage_scroll",
     "propertyId": "242f4219-39c7-4697-b5cf-4c7cdeeeb35d",
     "homepageId": "5ca6afea-3b57-4543-9867-0fd3a296dc84"
@@ -1524,9 +1524,40 @@
                     "isSelected": true
                   }
                 ],
-                "description": "객실에 머무는 순간부터 시선 끝까지 이어지는 오션뷰\n하루의 시작과 끝을 바다와 함께 채우는 공간\n루나풀빌라에서 만나는 더 인상적인 경주의 풍경"
+                "description": "경주의 여유로운 분위기 속에서 편안한 쉼을 누릴 수 있는 공간\n머무는 동안 휴식과 여유가 자연스럽게 이어지는 루나힐 풀빌라\n복잡한 일상에서 벗어나 온전히 쉬어가기 좋은 시간\n편안한 순간이 오래 기억으로 남는 특별한 공간"
               },
-              "about": []
+              "about": [
+                {
+                  "title": "전객실 오션뷰",
+                  "images": [
+                    {
+                      "id": "a9989f94-c2a1-4158-aedf-47abffacbc5a",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/main_about/1774509733349-i1a1n5avb1.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "a115a4fd-bf82-4b52-82ae-c0c4b6b053d1"
+                    }
+                  ],
+                  "blockId": "a115a4fd-bf82-4b52-82ae-c0c4b6b053d1",
+                  "description": "객실에 머무는 순간부터\n시선 끝까지 이어지는 오션뷰\n하루의 시작과 끝을 바다와 함께 채우는 공간\n루나풀빌라에서 만나는 더 인상적인 경주의 풍경"
+                },
+                {
+                  "title": "단독 독채 풀빌라",
+                  "images": [
+                    {
+                      "id": "c86180c2-37b7-4766-9ca7-96266b194453",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/main_about/1774509792966-f4vltvxn4qj.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "3f9f43e8-4aec-4a6b-90c5-171adb30c75b"
+                    }
+                  ],
+                  "blockId": "3f9f43e8-4aec-4a6b-90c5-171adb30c75b",
+                  "description": "단독 독채에서 물놀이와 휴식을 \n함께 즐기는 프라이빗 풀빌라\n숙소 안에서도 우리만의 여유를 누릴 수 있는 공간\n개별 바베큐까지 더해져 더욱 알차게 머무는 하루"
+                }
+              ]
             }
           ]
         },
