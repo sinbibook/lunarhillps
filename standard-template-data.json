@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-03-26T06:47:53.239Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-03-26T06:58:49.877Z",
     "templateType": "fullpage_scroll",
     "propertyId": "242f4219-39c7-4697-b5cf-4c7cdeeeb35d",
     "homepageId": "5ca6afea-3b57-4543-9867-0fd3a296dc84"
@@ -1316,7 +1316,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "경주 루나힐풀빌라",
                 "images": [
                   {
                     "id": "98fdbc69-b39f-48bf-aab8-3b9f82686983",
@@ -1388,7 +1388,7 @@
                 "description": "객실에 머무는 순간부터\n시선 끝까지 이어지는 오션뷰\n하루의 시작과 끝을 바다와 함께 채우는 공간\n루나풀빌라에서 만나는 더 인상적인 경주의 풍경"
               },
               "gallery": {
-                "title": "",
+                "title": "LUNAR HILL Preview",
                 "images": [
                   {
                     "id": "c86a9a61-8b42-4e31-9785-24bf18cb5fbd",
@@ -1425,7 +1425,8 @@
                     "description": "개별 바베큐",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "루나힐 풀빌라에서 준비한 다양한 공간을 둘러보세요"
               },
               "signature": {
                 "title": "단독 독채 풀빌라",
@@ -1452,7 +1453,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "단독 독채 풀빌라"
+                "description": "단독 독채에서 물놀이와 휴식을 \n함께 즐기는 프라이빗 풀빌라\n숙소 안에서도 우리만의 여유를 누릴 수 있는 공간\n개별 바베큐까지 더해져 더욱 알차게 머무는 하루"
               }
             }
           ]
@@ -1534,7 +1535,29 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "ba9fbb10-727f-4bb2-977b-68c24d015340",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/reservation_hero/1774508271012-97e76g49tbv.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "739cb2a7-011e-4bf1-a408-491da45551c9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/reservation_hero/1774508271012-oioz5nkyfjc.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "973b605c-b9c8-463d-9447-afae4dd1f981",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/reservation_hero/1774508271012-o9qntodfmr.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
                 "title": "",
@@ -1563,15 +1586,15 @@
             "family": "Cormorant"
           },
           "koMain": {
-            "cdn": "https://fonts.cdnfonts.com/css/noto-serif-kr",
-            "key": "notoserifKR",
+            "cdn": "https://hangeul.pstatic.net/hangeul_static/css/maru-buri.css",
+            "key": "maruburi",
             "woff2": null,
-            "family": "Noto Serif KR"
+            "family": "MaruBuri"
           }
         },
         "color": {
           "primary": "#F5F5F5",
-          "secondary": "#1E4476"
+          "secondary": "#6E4E4E"
         }
       },
       "property": {
