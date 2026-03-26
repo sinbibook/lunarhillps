@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-03-26T05:24:48.593Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-03-26T06:34:21.534Z",
     "templateType": "fullpage_scroll",
     "propertyId": "242f4219-39c7-4697-b5cf-4c7cdeeeb35d",
     "homepageId": "5ca6afea-3b57-4543-9867-0fd3a296dc84"
@@ -1309,23 +1309,142 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "98fdbc69-b39f-48bf-aab8-3b9f82686983",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_hero/1774503424551-l5wpyzf2ffs.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "1f37032e-7878-4dd1-b915-3f7c0b11c230",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_hero/1774503253035-cfmh1m1ju56.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "52ba16c0-8846-4612-bbaa-9ef23b1cacc5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_hero/1774503424551-52m2q9cx8qm.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "c2048ea3-126f-4125-a669-3f6b3b6e3b4e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_hero/1774503424551-cjoy8isimpe.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "4bebe920-582f-4e14-8de5-fed6a0319d00",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_hero/1774503424552-ml5uzvao3yp.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "7515e350-eae6-42b2-86c4-f9e4fce9fb12",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_hero/1774503675921-8q2wgbwqk2n.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "closing": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "73556501-f2b4-4851-979e-adc6e70a29d9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_closing/1774506839874-kw86nkankza.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "essence": {
-                "title": "",
-                "images": []
+                "title": "전객실 오션뷰",
+                "images": [
+                  {
+                    "id": "f3089bf8-dbba-4bd6-a861-7295b32b092f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_essence/1774506234608-v6lwf9oyuv.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "전객실 오션뷰"
               },
               "gallery": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "c86a9a61-8b42-4e31-9785-24bf18cb5fbd",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_gallery/1774506839874-13ena4odnm5i.jpg",
+                    "sortOrder": 0,
+                    "description": "전 객실 오션뷰",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "a079e417-783a-40f4-93cd-4804933ff0a0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_gallery/1774506839874-7rqxkztam1r.jpg",
+                    "sortOrder": 1,
+                    "description": "단독 풀빌라",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "df540556-e9e5-4f5f-9f58-10165a176d73",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_gallery/1774506839874-pbfxs9or8tc.jpg",
+                    "sortOrder": 2,
+                    "description": "SPA",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "d13cebcf-fc71-4e47-b93a-6abedd4e7175",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_gallery/1774506839874-u98efgb9q2a.jpg",
+                    "sortOrder": 3,
+                    "description": "객실 내부",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "7939552b-4517-45da-978d-1f81fa2f07a0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_gallery/1774506839874-r30i4t2u7p.jpg",
+                    "sortOrder": 4,
+                    "description": "개별 바베큐",
+                    "isSelected": true
+                  }
+                ]
               },
               "signature": {
-                "title": "",
-                "images": []
+                "title": "단독 독채 풀빌라",
+                "images": [
+                  {
+                    "id": "f55b2548-0592-454f-bcd4-be568478048c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_signature/1774506459087-auqwueq70yk.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "7e62ee66-20b7-45d7-bf7f-ff130827848f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_signature/1774506459087-3li3uq5yzxx.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "cb75bd7d-6bb2-477b-a7ec-23c24ccba99c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_signature/1774506459087-1mc8jusrski.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "단독 독채 풀빌라"
               }
             }
           ]
