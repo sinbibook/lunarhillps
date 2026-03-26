@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-03-26T07:04:42.861Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-03-26T07:07:45.310Z",
     "templateType": "fullpage_scroll",
     "propertyId": "242f4219-39c7-4697-b5cf-4c7cdeeeb35d",
     "homepageId": "5ca6afea-3b57-4543-9867-0fd3a296dc84"
@@ -1364,7 +1364,7 @@
                 "description": "머무는 곳마다 이어지는 경주의 오션뷰"
               },
               "closing": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "73556501-f2b4-4851-979e-adc6e70a29d9",
@@ -1373,7 +1373,8 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "바다를 품은 경주 루나힐에서 여유로운 하루를 완성해보세요"
               },
               "essence": {
                 "title": "전객실 오션뷰",
