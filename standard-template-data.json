@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-03-26T06:34:21.534Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-03-26T06:47:53.239Z",
     "templateType": "fullpage_scroll",
     "propertyId": "242f4219-39c7-4697-b5cf-4c7cdeeeb35d",
     "homepageId": "5ca6afea-3b57-4543-9867-0fd3a296dc84"
@@ -1293,13 +1293,21 @@
     "templateType": "fullpage_scroll",
     "images": [
       {
-        "logo": []
+        "logo": [
+          {
+            "id": "91642d64-25d4-43bf-8858-78adf2c3c237",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/logo/1774506879534-6dinzmnbjyn.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "seo": {
       "title": "경주 루나힐 풀빌라 펜션",
-      "description": "경주 루나힐 풀빌라 펜션",
-      "keywords": "경주 루나힐 풀빌라 펜션"
+      "description": "단독 독채에서 누리는 프라이빗 오션뷰 루나힐 풀빌라",
+      "keywords": "경주풀빌라,경주독채풀빌라,경주오션뷰숙소,경주프라이빗숙소,경주단독독채펜션"
     },
     "socialLinks": {},
     "customFields": {
@@ -1360,7 +1368,7 @@
                   {
                     "id": "73556501-f2b4-4851-979e-adc6e70a29d9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/index_closing/1774506839874-kw86nkankza.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
@@ -1377,7 +1385,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "전객실 오션뷰"
+                "description": "객실에 머무는 순간부터\n시선 끝까지 이어지는 오션뷰\n하루의 시작과 끝을 바다와 함께 채우는 공간\n루나풀빌라에서 만나는 더 인상적인 경주의 풍경"
               },
               "gallery": {
                 "title": "",
@@ -1454,7 +1462,29 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "77423138-dbab-4372-967c-135d19e11cb6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/directions_hero/1774507515161-lr7e2sx0ot.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "e8edc868-710b-46b3-b18e-0f3265681087",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/directions_hero/1774507515161-0ipqsyz9cu6r.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "65d9fa3a-8ea2-4a89-9b77-1ab121cd5f8b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/directions_hero/1774507515161-8kanrw4th63.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -1467,8 +1497,31 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "bf1086e9-7fb1-45ab-ae06-e78ef75cecf1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/main_hero/1774507314456-c7wuqc2l3zf.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "0e0a61ec-3b61-4535-89a0-b0355c296a59",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/main_hero/1774507314457-p7ela4qwhv.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "f062d269-8e65-483b-a6bd-5f86ac8b8265",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/main_hero/1774507314457-slf9kovcc19.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "객실에 머무는 순간부터 시선 끝까지 이어지는 오션뷰\n하루의 시작과 끝을 바다와 함께 채우는 공간\n루나풀빌라에서 만나는 더 인상적인 경주의 풍경"
               },
               "about": []
             }
@@ -1516,10 +1569,94 @@
             "family": "Noto Serif KR"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#F5F5F5",
+          "secondary": "#1E4476"
+        }
       },
       "property": {
-        "images": []
+        "images": [
+          {
+            "id": "0f57378c-477b-46c4-9302-8a00f0356c60",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/property_thumbnail/1774507600475-14x4uud57h1.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "0a951c08-cec9-4df8-8aff-69438f94e83c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/property_exterior/1774507548504-6rky410771j.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "4fde8288-4bc7-470f-9f77-faa1a26f8168",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/property_exterior/1774507665868-2sn61omg17x.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "f7033326-8482-48e2-9cf1-854d38cd0818",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/property_exterior/1774507665868-ibedv292adf.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "347c41a8-13f9-4fe2-8fd3-4c5c314f91f3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/property_exterior/1774507665868-4x6342p0zz.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "517c8987-d7be-4408-8d9d-318db720df2c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/property_exterior/1774507665868-2xqaafftbow.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "6afcfb0a-c9a2-4c54-b258-34f0484da076",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/property_exterior/1774507665868-kce5oumgijp.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "4894dd4e-dffc-4b74-83a7-754b261eba73",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/property_exterior/1774507665868-qx8wf7jv0i.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "2eeaf008-6d52-4b4c-a7fd-6882b043b405",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/property_exterior/1774507665868-yi4608imn3.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "11acec72-9a8c-42a9-91d5-f5f4097fbfd5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5ca6afea-3b57-4543-9867-0fd3a296dc84/property_exterior/1774507665868-gaymmgthdf7.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          }
+        ]
       },
       "roomtypes": [
         {
