@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-03-26T08:35:06.937Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-03-27T02:03:32.250Z",
     "templateType": "fullpage_scroll",
     "propertyId": "242f4219-39c7-4697-b5cf-4c7cdeeeb35d",
     "homepageId": "5ca6afea-3b57-4543-9867-0fd3a296dc84"
@@ -1851,9 +1851,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -1871,9 +1871,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -1891,9 +1891,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -1911,9 +1911,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -1931,9 +1931,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -1951,9 +1951,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -2108,7 +2108,8 @@
             "isSelected": true,
             "category": "property_exterior"
           }
-        ]
+        ],
+        "nameEn": "LUNAR HILL"
       },
       "roomtypes": [
         {
